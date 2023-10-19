@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+    color: brown;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.row{
+    margin: 8px;
+}
+.container{
+    background-color: aqua;
+}
+.row button{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    
+}
